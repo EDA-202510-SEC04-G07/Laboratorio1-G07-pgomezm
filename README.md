@@ -32,7 +32,7 @@ Este repositorio forma parte del marco docente de estructura de datos y algoritm
    1. [Licencia](#Licencia)
    1. [Autores y Reconocimiento](#Autores-y-Reconocimiento)
 
-<!-- GROUP MEMBERS -->
+<!-- GROUP MEMBERS Hola, entrega final cambios--> 
 
 ## Miembros
 
